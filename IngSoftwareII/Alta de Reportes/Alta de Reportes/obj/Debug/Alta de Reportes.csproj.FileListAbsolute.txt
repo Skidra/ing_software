@@ -1,0 +1,15 @@
+C:\Users\TOSHIBA\Documents\4to. Semestre\IngSoftwareII\Alta de Reportes\Alta de Reportes\bin\Debug\Alta de Reportes.exe.config
+C:\Users\TOSHIBA\Documents\4to. Semestre\IngSoftwareII\Alta de Reportes\Alta de Reportes\obj\Debug\Alta de Reportes.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Documents\4to. Semestre\IngSoftwareII\Alta de Reportes\Alta de Reportes\obj\Debug\Alta_de_Reportes.Form1.resources
+C:\Users\TOSHIBA\Documents\4to. Semestre\IngSoftwareII\Alta de Reportes\Alta de Reportes\obj\Debug\Alta_de_Reportes.Properties.Resources.resources
+C:\Users\TOSHIBA\Documents\4to. Semestre\IngSoftwareII\Alta de Reportes\Alta de Reportes\obj\Debug\Alta de Reportes.csproj.GenerateResource.Cache
+C:\Users\TOSHIBA\Documents\4to. Semestre\IngSoftwareII\Alta de Reportes\Alta de Reportes\bin\Debug\Alta de Reportes.exe
+C:\Users\TOSHIBA\Documents\4to. Semestre\IngSoftwareII\Alta de Reportes\Alta de Reportes\bin\Debug\Alta de Reportes.pdb
+C:\Users\TOSHIBA\Documents\4to. Semestre\IngSoftwareII\Alta de Reportes\Alta de Reportes\obj\Debug\Alta de Reportes.exe
+C:\Users\TOSHIBA\Documents\4to. Semestre\IngSoftwareII\Alta de Reportes\Alta de Reportes\obj\Debug\Alta de Reportes.pdb
+C:\Users\TOSHIBA\Documents\4to. Semestre\IngSoftwareII\Alta de Reportes\Alta de Reportes\obj\Debug\Alta_de_Reportes.Form2.resources
+C:\Users\TOSHIBA\Documents\4to. Semestre\IngSoftwareII\Alta de Reportes\Alta de Reportes\obj\Debug\Alta_de_Reportes.Form3.resources
+C:\Users\TOSHIBA\Documents\4to. Semestre\IngSoftwareII\Alta de Reportes\Alta de Reportes\obj\Debug\Alta_de_Reportes.Form4.resources
+C:\Users\TOSHIBA\Documents\4to. Semestre\IngSoftwareII\Alta de Reportes\Alta de Reportes\obj\Debug\Alta_de_Reportes.Form5.resources
+C:\Users\TOSHIBA\Documents\4to. Semestre\IngSoftwareII\Alta de Reportes\Alta de Reportes\obj\Debug\Alta_de_Reportes.Form6.resources
+C:\Users\TOSHIBA\Documents\4to. Semestre\IngSoftwareII\Alta de Reportes\Alta de Reportes\obj\Debug\Alta_de_Reportes.Form7.resources

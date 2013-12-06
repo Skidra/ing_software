@@ -1,0 +1,13 @@
+C:\Users\TOSHIBA\Documents\4to. Semestre\IngSoftwareII\ejemplos\ejemplos\bin\Debug\ejemplos.exe.config
+C:\Users\TOSHIBA\Documents\4to. Semestre\IngSoftwareII\ejemplos\ejemplos\bin\Debug\ejemplos.exe
+C:\Users\TOSHIBA\Documents\4to. Semestre\IngSoftwareII\ejemplos\ejemplos\bin\Debug\ejemplos.pdb
+C:\Users\TOSHIBA\Documents\4to. Semestre\IngSoftwareII\ejemplos\ejemplos\obj\Debug\ejemplos.Form1.resources
+C:\Users\TOSHIBA\Documents\4to. Semestre\IngSoftwareII\ejemplos\ejemplos\obj\Debug\ejemplos.Form2.resources
+C:\Users\TOSHIBA\Documents\4to. Semestre\IngSoftwareII\ejemplos\ejemplos\obj\Debug\ejemplos.Properties.Resources.resources
+C:\Users\TOSHIBA\Documents\4to. Semestre\IngSoftwareII\ejemplos\ejemplos\obj\Debug\ejemplos.csproj.GenerateResource.Cache
+C:\Users\TOSHIBA\Documents\4to. Semestre\IngSoftwareII\ejemplos\ejemplos\obj\Debug\ejemplos.exe
+C:\Users\TOSHIBA\Documents\4to. Semestre\IngSoftwareII\ejemplos\ejemplos\obj\Debug\ejemplos.pdb
+C:\Users\TOSHIBA\Documents\4to. Semestre\IngSoftwareII\ejemplos\ejemplos\obj\Debug\ejemplos.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Documents\4to. Semestre\IngSoftwareII\ejemplos\ejemplos\obj\Debug\ejemplos.Form3.resources
+C:\Users\TOSHIBA\Documents\4to. Semestre\IngSoftwareII\ejemplos\ejemplos\obj\Debug\ejemplos.Form4.resources
+C:\Users\TOSHIBA\Documents\4to. Semestre\IngSoftwareII\ejemplos\ejemplos\obj\Debug\ejemplos.Form5.resources
